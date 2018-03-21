@@ -20,10 +20,10 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/eximchain/go-ethereum"
+	"github.com/eximchain/go-ethereum/common"
+	"github.com/eximchain/go-ethereum/core/types"
+	"github.com/eximchain/go-ethereum/p2p"
 )
 
 type Client interface {

@@ -1,6 +1,6 @@
 package: github.com/getamis/eth-client
 import:
-- package: github.com/ethereum/go-ethereum
+- package: github.com/eximchain/go-ethereum
   version: v1.7.2
   repo: git@github.com:ethereum/go-ethereum
   subpackages:

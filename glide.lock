@@ -9,7 +9,7 @@ imports:
   version: 47885ab8702485be6b6f87a03d4f3be0bc5c982c
   subpackages:
   - btcec
-- name: github.com/ethereum/go-ethereum
+- name: github.com/eximchain/go-ethereum
   version: 1db4ecdc0b9e828ff65777fb466fc7c1d04e0de9
   repo: git@github.com:ethereum/go-ethereum
   subpackages:

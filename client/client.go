@@ -20,11 +20,11 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/ethereum/go-ethereum/p2p"
-	ethrpc "github.com/ethereum/go-ethereum/rpc"
+	"github.com/eximchain/go-ethereum/common/hexutil"
+	"github.com/eximchain/go-ethereum/core/types"
+	"github.com/eximchain/go-ethereum/ethclient"
+	"github.com/eximchain/go-ethereum/p2p"
+	ethrpc "github.com/eximchain/go-ethereum/rpc"
 )
 
 // client defines typed wrappers for the Ethereum RPC API.

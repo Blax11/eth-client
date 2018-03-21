@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
+	ethereum "github.com/eximchain/go-ethereum"
+	"github.com/eximchain/go-ethereum/common"
 )
 
 // Subscription represents an event subscription where events are

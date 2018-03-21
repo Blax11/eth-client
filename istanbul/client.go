@@ -22,10 +22,10 @@ import (
 	"sort"
 	"strings"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/rpc"
+	ethereum "github.com/eximchain/go-ethereum"
+	"github.com/eximchain/go-ethereum/common"
+	"github.com/eximchain/go-ethereum/common/hexutil"
+	"github.com/eximchain/go-ethereum/rpc"
 	ethClient "github.com/getamis/eth-client/client"
 )
 
