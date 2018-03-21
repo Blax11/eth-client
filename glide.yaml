@@ -1,4 +1,4 @@
-package: github.com/getamis/eth-client
+package: github.com/eximchain/eth-client
 import:
 - package: github.com/eximchain/go-ethereum
   version: v1.7.2

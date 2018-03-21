@@ -21,7 +21,7 @@ import (
 	"math/big"
 
 	"github.com/eximchain/go-ethereum/common"
-	ethClient "github.com/getamis/eth-client/client"
+	ethClient "github.com/eximchain/eth-client/client"
 )
 
 type Client interface {

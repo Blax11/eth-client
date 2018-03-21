@@ -17,7 +17,7 @@
 package client
 
 import (
-	logging "github.com/getamis/eth-client/log"
+	logging "github.com/eximchain/eth-client/log"
 )
 
 var log = logging.New()

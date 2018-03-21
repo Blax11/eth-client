@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/getamis/eth-client
+go_import_path: github.com/eximchain/eth-client
 sudo: false
 os: 
   - linux

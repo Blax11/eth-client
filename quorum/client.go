@@ -23,7 +23,7 @@ import (
 	"github.com/eximchain/go-ethereum/common"
 	"github.com/eximchain/go-ethereum/common/hexutil"
 	"github.com/eximchain/go-ethereum/rpc"
-	ethClient "github.com/getamis/eth-client/client"
+	ethClient "github.com/eximchain/eth-client/client"
 )
 
 // client defines typed wrappers for the eth-client.

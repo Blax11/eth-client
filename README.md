@@ -1,9 +1,9 @@
 eth-client
 ==========
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/getamis/eth-client)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/eximchain/eth-client)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![Go Report Card](https://goreportcard.com/badge/github.com/getamis/eth-client)](https://goreportcard.com/report/github.com/getamis/eth-client)
+[![Go Report Card](https://goreportcard.com/badge/github.com/eximchain/eth-client)](https://goreportcard.com/report/github.com/eximchain/eth-client)
 
 A Golang client library to communicate with Ethereum RPC server.
 * Implements most of JSON-RPC methods and several client-specific methods.
@@ -19,7 +19,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/getamis/eth-client/client"
+	"github.com/eximchain/eth-client/client"
 )
 
 func main() {
@@ -111,4 +111,4 @@ Reference
 * https://github.com/ethereum/wiki/wiki/JSON-RPC
 * https://github.com/ethereum/EIPs/issues/650
 * https://github.com/jpmorganchase/quorum
-* https://github.com/getamis/istanbul-tools
+* https://github.com/eximchain/istanbul-tools
